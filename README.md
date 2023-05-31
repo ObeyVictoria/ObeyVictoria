@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://c8.alamy.com/comp/2K837X9/web-designer-and-programmer-working-at-desktop-computer-cartoon-woman-coding-in-different-programming-languages-as-java-and-python-female-character-2K837X9.jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=obeyvictoria&label=Profile%20views&color=0e75b6&style=flat" alt="obeyvictoria" /> </p>
 
-- 🔭 I’m currently working on *Making myself marketable**
+- 🔭 I’m currently working on **Making myself marketable**
 
 - 🌱 I’m currently learning **Python**
 
